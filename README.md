@@ -1,7 +1,7 @@
 # Requirements
 See requirements.txt.
 
-# Instructions to run SDS
+# Instructions to run
 
 For original antmaze-v2: (replacing the env name with any of the six antmaze-v2 envs)
 ```
