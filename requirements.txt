@@ -1,0 +1,10 @@
+numpy
+scipy
+tqdm
+torch>=1.7.0
+gym==0.21.0
+-e git+https://github.com/openai/mujoco-py@f1312cceeeebbba17e78d5d77fbffa091eed9a3a#egg=mujoco_py
+-e git+https://github.com/rail-berkeley/d4rl.git@d842aa194b416e564e54b0730d9f934e3e32f854#egg=d4rl
+torch_ema==0.3
+Cython==0.29.36
+tensorboard==2.14.0
